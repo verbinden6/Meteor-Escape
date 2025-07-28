@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1733147687 source:c:\users\hp\desktop\spaceinvader-1\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+
+1723029956 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1723029956 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1733161716 source:d:\college\sem-5\computer graphics lab\meteorescapeproject\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+
