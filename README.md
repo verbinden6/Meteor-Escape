@@ -3,7 +3,9 @@
 **Meteor Escape** is a 2D survival game developed in **C++** using **OpenGL** and **GLUT**. Navigate your spaceship using keyboard controls and dodge incoming meteors for as long as you can. The game features real-time animations, collision detection, and a scoring system to challenge your reflexes.
 
 ---
+![Gameplay Demo](snap.gif)
 
+---
 ## 🎮 Features
 
 - Spaceship control with **W, A, S, D** keys  
